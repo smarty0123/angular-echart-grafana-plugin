@@ -1,7 +1,6 @@
-## Simple Angular Panel
-[![CircleCI](https://circleci.com/gh/grafana/simple-angular-panel.svg?style=svg)](https://circleci.com/gh/grafana/simple-angular-panel)
+## [Angular] EChart Grafana Plugin Panel 
 
-Hello world showing series in Grafana panel.
+This is an example visualization using EChart (powered by Angular)
 
 ### Building this plugin
 
